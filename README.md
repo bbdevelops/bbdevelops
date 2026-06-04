@@ -20,7 +20,7 @@ Along with self-learning, I recently completed a Google Data Analytics Certifica
 * R
 * Tableau
 
-I'm working on the Advanced Data Analytics Certificate now. I'm also a part of CodePath.org's AI110 Foundation of AI Engineering course.
+I'm working on the Advanced Data Analytics Certificate now. I recently completed CodePath.org's AI110 Foundation of AI Engineering course with honors.
 
 I'm interested in working on projects related to sustainability, renewable energy, conservation, and environmental health.
 
