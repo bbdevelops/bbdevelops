@@ -1,26 +1,24 @@
-## Hello! 👋
+# Hello! 👋 I'm Brian
 
-I'm a student studying **computer science** with a background in **graphic design**.
+**Computer Science Student | Graphic Designer | Data Enthusiast**
 
-My journey with coding began as a teenager making personal websites. Later on, I worked as a freelancer to develop a WordPress website for an independent media organization.
+I am a computer science student bridging the gap between aesthetics and functionality with a background in **graphic design**. My coding journey began as a teenager building personal websites, which eventually led to freelance WordPress development for an independent media organization. 
 
-In 2025, I started learning Python through the University of Helsinki's MOOC Introduction to Python course. I found it was a great experience, which led to me going back to school.
+In 2025, I took the University of Helsinki's *Introduction to Python* MOOC. That experience completely changed my trajectory and inspired me to formally return to school for computer science.
 
-Since then I've worked on projects in:
+### 🛠️ Tech Stack & Tools
+* **Languages:** Python 🐍, C++, SQL, R, Ruby 💎, Dart 🦋
+* **Data & Analytics:** Tableau, Google Data Analytics
+* **Web:** HTML/CSS, JavaScript, WordPress
 
-* 🐍 Python
-* 💎 Ruby
-* 🦋 Flutter/Dart
+### 🌱 Currently Learning & Exploring
+* Leveling up my **C++** skills.
+* Working towards the **Google Advanced Data Analytics Certificate**.
+* Exploring Artificial Intelligence (recently completed CodePath.org's *AI201 Applications of AI Engineering* with **Honors**).
 
-Recently, I have started learning C++ through CodeSignal.
-
-Along with self-learning, I recently completed a Google Data Analytics Certificate which gave me exposure to:
-
-* SQL
-* R
-* Tableau
-
-I'm working on the Advanced Data Analytics Certificate now. I recently completed CodePath.org's AI110 Foundation of AI Engineering course with honors.
-
-I'm interested in working on projects related to sustainability, renewable energy, conservation, and environmental health.
-
+### 🌍 Passions & Interests
+I want to use technology to make a positive impact. I am actively looking to build or collaborate on projects related to:
+* ☁️ Atmospheric Science
+* ☀️ Renewable Energy
+* 🌿 Environmental Health
+* * ♻️ Sustainability & Conservation
