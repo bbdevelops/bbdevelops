@@ -21,4 +21,4 @@ I want to use technology to make a positive impact. I am actively looking to bui
 * ☁️ Atmospheric Science
 * ☀️ Renewable Energy
 * 🌿 Environmental Health
-* * ♻️ Sustainability & Conservation
+* ♻️ Sustainability & Conservation
